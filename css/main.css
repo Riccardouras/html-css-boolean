@@ -1,5 +1,6 @@
-header{
-     background-color: #4ea0ff;
-     background-image: repeat;
-  
+img{
+    background-image: url(../img/pattern.jpg);
+    background-repeat: repeat-x;
+    height: 100px;
+    background-color: #4ea0ff;
 }
