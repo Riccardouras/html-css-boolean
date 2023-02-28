@@ -1,3 +1,4 @@
+/* TOP IMAGES*/
 header {
     background-color: rgb(79,161,255);
     background-image: url('../img/pattern.png');
@@ -7,6 +8,7 @@ header {
     height: 50px;
     padding-top: 25px;
 }
+/* TITLES */
 h1 {
     font-size: 35px;
     margin: 0px;
@@ -20,14 +22,34 @@ h1 {
     color: rgb(24, 166, 228);
     font-size: 13px;
 }
+/* CAPTION SIZE */
 .did {
     font-size: 12px;
     font-weight: 400;
     margin: 0px;
 }
+/* ORDERED LIST PADDING */
 ul {
     padding: 10px;
 }
+/* ABLE SIZE AND BORDERCOLOR */
+table {
+    border-collapse: collapse;
+}
 thead {
-    border-color: rgb(32, 169, 229);
+    background-color: rgb(32, 169, 229);
+    color: white;
+    text-align: left;
+}
+th {
+    font-size: 11px;
+}
+.resizing {
+    width: 20%;
+}
+.colorfill {
+    background-color: rgb(177,229,242);
+}
+#marginfix {
+    margin-top: 30px;
 }
