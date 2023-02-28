@@ -51,5 +51,27 @@ th {
     background-color: rgb(177,229,242);
 }
 #marginfix {
-    margin-top: 30px;
+    margin: 30px 0px;
+
+}
+#grey {
+    color: rgb(124, 124, 124)
+}
+#inline1 {
+    background-image: url(../img/monitor.jpg);
+}
+#inline2 {
+    background-image: url(../img/graph.jpg);
+}
+.inline {
+    width: 312px;
+    height: 208px;
+    margin-bottom: 15px;
+}
+.inlinetxt{
+    padding: 1em;
+    font-weight: 700;
+    color: white;
+    font-size: 24px;
+    margin: 0px;
 }
