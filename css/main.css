@@ -1,6 +1,33 @@
-img{
-    background-image: url(../img/pattern.jpg);
-    background-repeat: repeat-x;
-    height: 100px;
-    background-color: #4ea0ff;
+header {
+    background-color: rgb(79,161,255);
+    background-image: url('../img/pattern.png');
+    background-size: 25%;
+}
+#logo {
+    height: 50px;
+    padding-top: 25px;
+}
+h1 {
+    font-size: 35px;
+    margin: 0px;
+}
+#subtitle {
+    color:rgb(155,155,155);
+    font-size: 10px;
+    margin: 0px;
+}
+#subtitle a{
+    color: rgb(24, 166, 228);
+    font-size: 13px;
+}
+.did {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0px;
+}
+ul {
+    padding: 10px;
+}
+thead {
+    border-color: rgb(32, 169, 229);
 }
